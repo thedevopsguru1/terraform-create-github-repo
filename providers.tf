@@ -6,7 +6,7 @@ provider "aws" {
 
 provider "github" {
   # Configuration options
-  token = "ghp_L3qmfjUB680QS6Y6kAS"
+  token = "ghp_L3qmfjS"
 }
 terraform {
   required_providers {
